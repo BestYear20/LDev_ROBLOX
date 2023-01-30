@@ -1,5 +1,5 @@
 return {
-	["Wood Multiplier"] = 50;
+	["Wood Multiplier"] = 2
 	["Cash Multiplier"] = 1;
 	["Luck Multiplier"] = 1;
 	["Silver Multiplier"] = 1;
