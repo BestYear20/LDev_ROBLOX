@@ -11,14 +11,14 @@ return {
 					Thickness = 1.5;
 				};
 				["Medium"] = {
-					MaxHealth = "550";
+					MaxHealth = "450";
 					WoodAmount = 3;
 					RespawnTime = 35;
 					Experience = "30";
 					Thickness = 1.7;
 				};
 				["Big"] = {
-					MaxHealth = "1000";
+					MaxHealth = "700";
 					WoodAmount = 5;
 					RespawnTime = 45;
 					Experience = "50";
@@ -40,14 +40,14 @@ return {
 					Thickness = 1.5;
 				};
 				["Medium"] = {
-					MaxHealth = "550";
+					MaxHealth = "450";
 					WoodAmount = 3;
 					RespawnTime = 35;
 					Experience = "30";
 					Thickness = 1.7;
 				};
 				["Big"] = {
-					MaxHealth = "1000";
+					MaxHealth = "700";
 					WoodAmount = 5;
 					RespawnTime = 45;
 					Experience = "50";
@@ -91,21 +91,21 @@ return {
 			Name = "Oak";
 			Sizes = {
 				["Small"] = {
-					MaxHealth = "1500";
-					WoodAmount = 4.1;
+					MaxHealth = "1250";
+					WoodAmount = 4;
 					RespawnTime = 25;
 					Experience = "50";
 					Thickness = 1.5;
 				};
 				["Medium"] = {
-					MaxHealth = "3000";
-					WoodAmount = 4.5;
+					MaxHealth = "1750";
+					WoodAmount = 5;
 					RespawnTime = 35;
 					Experience = "75";
 					Thickness = 1.7;
 				};
 				["Big"] = {
-					MaxHealth = "5000";
+					MaxHealth = "2500";
 					WoodAmount = 5;
 					RespawnTime = 45;
 					Experience = "100";
@@ -265,22 +265,22 @@ return {
 			Name = "Mahogany";
 			Sizes = {
 				["Small"] = {
-					MaxHealth = "7000";
+					MaxHealth = "3500";
 					WoodAmount = 4;
 					RespawnTime = 35;
 					Experience = "50";
 					Thickness = 3;
 				};
 				["Medium"] = {
-					MaxHealth = "10000";
-					WoodAmount = 7;
+					MaxHealth = "5500";
+					WoodAmount = 6;
 					RespawnTime = 35;
 					Experience = "70";
 					Thickness = 3.5;
 				};
 				["Big"] = {
-					MaxHealth = "25000";
-					WoodAmount = 10;
+					MaxHealth = "8000";
+					WoodAmount = 7;
 					RespawnTime = 45;
 					Experience = "90";
 					Thickness = 3.7;
