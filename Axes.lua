@@ -71,7 +71,7 @@ return {
 				Range = 6.2;
 				Levels = {
 					[0] = {
-						Damage = 35;
+						Damage = 60;
 						Price = "500";
 						Type = "Normal";
 						Currency = "cash";
@@ -118,7 +118,7 @@ return {
 				Range = 6.2;
 				Levels = {
 					[0] = {
-						Damage = 50;
+						Damage = 125;
 						Price = "2500";
 						Type = "Normal";
 						Currency = "cash";
