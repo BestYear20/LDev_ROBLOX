@@ -120,21 +120,21 @@ return {
 			Name = "Willow";
 			Sizes = {
 				["Small"] = {
-					MaxHealth = "200";
+					MaxHealth = "35000";
 					WoodAmount = 3;
 					RespawnTime = 25;
 					Experience = "25";
 					Thickness = 3;
 				};
 				["Medium"] = {
-					MaxHealth = "400";
+					MaxHealth = "40000";
 					WoodAmount = 4;
 					RespawnTime = 35;
 					Experience = "45";
 					Thickness = 3.5;
 				};
 				["Big"] = {
-					MaxHealth = "700";
+					MaxHealth = "50000";
 					WoodAmount = 6;
 					RespawnTime = 45;
 					Experience = "65";
@@ -149,22 +149,22 @@ return {
 			Name = "Pine";
 			Sizes = {
 				["Small"] = {
-					MaxHealth = "25000";
+					MaxHealth = "10000";
 					WoodAmount = 4;
 					RespawnTime = 35;
 					Experience = "80";
 					Thickness = 3;
 				};
 				["Medium"] = {
-					MaxHealth = "50000";
-					WoodAmount = 7;
-					RespawnTime = 35;
+					MaxHealth = "12500";
+					WoodAmount = 5;
+					RespawnTime = 45;
 					Experience = "100";
 					Thickness = 3.5;
 				};
 				["Big"] = {
-					MaxHealth = "75000";
-					WoodAmount = 9;
+					MaxHealth = "17500";
+					WoodAmount = 6;
 					RespawnTime = 45;
 					Experience = "120";
 					Thickness = 3.7;
@@ -178,22 +178,22 @@ return {
 			Name = "Cedar";
 			Sizes = {
 				["Small"] = {
-					MaxHealth = "1000";
+					MaxHealth = "20000";
 					WoodAmount = 4;
 					RespawnTime = 35;
 					Experience = "50";
 					Thickness = 3;
 				};
 				["Medium"] = {
-					MaxHealth = "1400";
-					WoodAmount = 7;
+					MaxHealth = "25000";
+					WoodAmount = 5;
 					RespawnTime = 35;
 					Experience = "70";
 					Thickness = 3.5;
 				};
 				["Big"] = {
-					MaxHealth = "2000";
-					WoodAmount = 9;
+					MaxHealth = "30000";
+					WoodAmount = 6;
 					RespawnTime = 45;
 					Experience = "90";
 					Thickness = 3.7;
