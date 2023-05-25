@@ -24,39 +24,9 @@ return {
 				Range = 6.2;
 				Levels = {
 					[0] = {
-						Damage = 25;
+						Damage = 35;
 						Price = "0";
 						Type = "Normal";
-						Currency = "cash";
-					};
-					[1] = {
-						Damage = 22;
-						Price = "200";
-						Type = "Normal";
-						Currency = "cash";
-					};
-					[2] = {
-						Damage = 24;
-						Price = "400";
-						Type = "Normal";
-						Currency = "cash";
-					};
-					[3] = {
-						Damage = 26;
-						Price = "600";
-						Type = "Normal";
-						Currency = "cash";
-					};
-					[4] = {
-						Damage = 28;
-						Price = "800";
-						Type = "Normal";
-						Currency = "cash";
-					};
-					[5] = {
-						Damage = 35;
-						Price = "1500";
-						Type = "Golden";
 						Currency = "cash";
 					};
 				};
@@ -71,39 +41,9 @@ return {
 				Range = 6.2;
 				Levels = {
 					[0] = {
-						Damage = 60;
+						Damage = 75;
 						Price = "500";
 						Type = "Normal";
-						Currency = "cash";
-					};
-					[1] = {
-						Damage = 22;
-						Price = "200";
-						Type = "Normal";
-						Currency = "cash";
-					};
-					[2] = {
-						Damage = 24;
-						Price = "400";
-						Type = "Normal";
-						Currency = "cash";
-					};
-					[3] = {
-						Damage = 26;
-						Price = "600";
-						Type = "Normal";
-						Currency = "cash";
-					};
-					[4] = {
-						Damage = 28;
-						Price = "800";
-						Type = "Normal";
-						Currency = "cash";
-					};
-					[5] = {
-						Damage = 35;
-						Price = "1500";
-						Type = "Golden";
 						Currency = "cash";
 					};
 				};
@@ -118,39 +58,9 @@ return {
 				Range = 6.2;
 				Levels = {
 					[0] = {
-						Damage = 125;
+						Damage = 250;
 						Price = "2500";
 						Type = "Normal";
-						Currency = "cash";
-					};
-					[1] = {
-						Damage = 55;
-						Price = "500";
-						Type = "Normal";
-						Currency = "cash";
-					};
-					[2] = {
-						Damage = 60;
-						Price = "800";
-						Type = "Normal";
-						Currency = "cash";
-					};
-					[3] = {
-						Damage = 65;
-						Price = "1500";
-						Type = "Normal";
-						Currency = "cash";
-					};
-					[4] = {
-						Damage = 70;
-						Price = "2000";
-						Type = "Normal";
-						Currency = "cash";
-					};
-					[5] = {
-						Damage = 80;
-						Price = "3500";
-						Type = "Golden";
 						Currency = "cash";
 					};
 				};
@@ -158,46 +68,16 @@ return {
 			
 			[4] = {
 				Name = "Axe4";
-				WorldId = 1;
+				WorldId = 2;
 				Required = nil;
 				Upgradeable = true;
 				Rarity = "Rare";
 				Range = 6.2;
 				Levels = {
 					[0] = {
-						Damage = 100;
+						Damage = 750;
 						Price = "5000";
 						Type = "Normal";
-						Currency = "cash";
-					};
-					[1] = {
-						Damage = 55;
-						Price = "500";
-						Type = "Normal";
-						Currency = "cash";
-					};
-					[2] = {
-						Damage = 60;
-						Price = "800";
-						Type = "Normal";
-						Currency = "cash";
-					};
-					[3] = {
-						Damage = 65;
-						Price = "1500";
-						Type = "Normal";
-						Currency = "cash";
-					};
-					[4] = {
-						Damage = 70;
-						Price = "2000";
-						Type = "Normal";
-						Currency = "cash";
-					};
-					[5] = {
-						Damage = 80;
-						Price = "3500";
-						Type = "Golden";
 						Currency = "cash";
 					};
 				};
@@ -205,46 +85,50 @@ return {
 			
 			[5] = {
 				Name = "Axe5";
-				WorldId = 1;
+				WorldId = 2;
 				Required = nil;
 				Upgradeable = true;
 				Rarity = "Rare";
 				Range = 6.2;
 				Levels = {
 					[0] = {
-						Damage = 500;
+						Damage = 1500;
 						Price = "50000";
 						Type = "Normal";
 						Currency = "cash";
 					};
-					[1] = {
-						Damage = 55;
-						Price = "500";
+				};
+			};
+			
+			[6] = {
+				Name = "Axe6";
+				WorldId = 2;
+				Required = nil;
+				Upgradeable = true;
+				Rarity = "Rare";
+				Range = 6.2;
+				Levels = {
+					[0] = {
+						Damage = 1000;
+						Price = "50000";
 						Type = "Normal";
 						Currency = "cash";
 					};
-					[2] = {
-						Damage = 60;
-						Price = "800";
+				};
+			};
+			
+			[7] = {
+				Name = "Axe7";
+				WorldId = 2;
+				Required = nil;
+				Upgradeable = true;
+				Rarity = "Rare";
+				Range = 6.2;
+				Levels = {
+					[0] = {
+						Damage = 2250;
+						Price = "150000";
 						Type = "Normal";
-						Currency = "cash";
-					};
-					[3] = {
-						Damage = 65;
-						Price = "1500";
-						Type = "Normal";
-						Currency = "cash";
-					};
-					[4] = {
-						Damage = 70;
-						Price = "2000";
-						Type = "Normal";
-						Currency = "cash";
-					};
-					[5] = {
-						Damage = 80;
-						Price = "3500";
-						Type = "Golden";
 						Currency = "cash";
 					};
 				};
